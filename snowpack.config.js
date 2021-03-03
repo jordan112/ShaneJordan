@@ -14,6 +14,7 @@ module.exports = {
   },
   devOptions: {
     /* ... */
+    port: 8081,
   },
   buildOptions: {
     /* ... */
