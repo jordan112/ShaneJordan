@@ -6,6 +6,7 @@ module.exports = {
   mount: {
     /* ... */
   },
+  exclude: ["**/node_modules/**/*", "infrastructure/**"],
   plugins: [
     /* ... */
   ],
