@@ -96,6 +96,19 @@ button, button:focus, button:hover { outline: none; }
 .no-transition { transition: all 0s ease-in-out !important; -moz-transition: all 0s ease-in-out !important; -webkit-transition: all 0s ease-in-out !important; -ms-transition: all 0s ease-in-out !important; -o-transition: all 0s ease-in-out !important; }
 .transition { transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -webkit-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; }
 
+.shane1-hero {
+    left: 50em; 
+    width: 100%;
+    top: 175px;
+    height: auto;
+}
+
+@media screen and (max-width: 960px) {
+    .shane1-hero {
+        display: none;
+    }
+  }
+
 /* ===================================
     03. Typography
 ====================================== */
