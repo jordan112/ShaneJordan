@@ -97,9 +97,8 @@ button, button:focus, button:hover { outline: none; }
 .transition { transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -webkit-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; }
 
 .shane1-hero {
-    left: 50em; 
-    width: 100%;
-    top: 175px;
+    left: 50em;
+    bottom: 0;
     height: auto;
 }
 
